@@ -192,8 +192,10 @@ Student-Social-Media-Addiction-Dashboard
 - Enable real-time dashboard updates.
 
 ---
-#  Created By 
-     Vikash Rao
+#  # 👨‍💻 Author
+
+## Vikash Rao
+
 # 👨‍💻 About Me
 
 I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through dashboards, business intelligence, and analytics.
